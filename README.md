@@ -2,7 +2,7 @@
 
 ### Project Structure
 
-Lossy compression
+ Lossy Compression platform using Discrete Cosine Transformation for audio and image files.
 
 ```
 src/
